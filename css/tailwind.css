@@ -4,9 +4,11 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
-.banner-text-contents h1 {
+h1,
+h2 {
     font-family: 'Bebas Neue', sans-serif;
 }
-.banner-text-contents a {
+.banner-text-contents a,
+.pricing-cart a {
     background-image: linear-gradient(to bottom, #a4bc46, #85a019);
 }
