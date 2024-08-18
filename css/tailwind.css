@@ -4,3 +4,9 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+.banner-text-contents h1 {
+    font-family: 'Bebas Neue', sans-serif;
+}
+.banner-text-contents a {
+    background-image: linear-gradient(to bottom, #a4bc46, #85a019);
+}
